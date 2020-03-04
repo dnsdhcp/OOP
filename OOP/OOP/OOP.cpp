@@ -26,6 +26,7 @@ int main(array<System::String^>^ args)
 {
     int guess;
     int fuck;
+    int FK;
 
     do
     {
