@@ -25,6 +25,7 @@ bool Guess(int number)
 int main(array<System::String^>^ args)
 {
     int guess;
+    int fuck;
 
     do
     {

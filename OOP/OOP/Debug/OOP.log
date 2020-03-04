@@ -1,7 +1,4 @@
-﻿  stdafx.cpp
-  AssemblyInfo.cpp
-  OOP.cpp
-  正在產生程式碼...
-  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+﻿  OOP.cpp
+c:\users\cjv\desktop\git\oop\oop\oop.cpp(28): warning C4101: 'fuck': 未參考的區域變數
   AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
   OOP.vcxproj -> C:\Users\cjv\Desktop\Git\OOP\Debug\OOP.exe
